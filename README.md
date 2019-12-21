@@ -1,2 +1,2 @@
-# Reverse-Polish-Notation-And-Calculator 
-# WITH LOVE! <3
+# Обратная польская нотация.        
+# Made with love      
